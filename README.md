@@ -8,7 +8,7 @@
 
 ## Education:
 
-#### 1. [Telkom Purwokerto Institute of Technology] (https://ittelkom-pwt.ac.id/ | Bachelor of Electrical Engineering | Banjarbaru`2021-2024`
+#### 1. [Telkom Purwokerto Institute of Technology](https://ittelkom-pwt.ac.id/) | Bachelor of Electrical Engineering | Banjarbaru`2021-2024`
       - Software Engineering Student Association
 
 #### 2. [Telkom Banjarbaru Vocational School](https://www.smktelkom-bjb.sch.id/web/) | Software Engineering | Banjarbaru `2019-2021`
