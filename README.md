@@ -1,15 +1,14 @@
 # Hello, I'm Asty - [astyyuliani] 👋
-##About me:
+## About me:
 - 🔭 I'm currently studying at [ITTP](https://ittelkom-pwt.ac.id/)
 - 🌱 I'm currently learning Python and Javascript and several programming languages.
 - 👯 I want to collaborate with various Software engineering
-- 🤔 I'm looking for advice for Automation and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to contact me: astyyuliani02@gmail.com
 
 ## Education:
 
-#### 1. [Telkom Purwokerto Institute of Technology](https://ittelkom-pwt.ac.id/ | Bachelor of Electrical Engineering | Banjarbaru`2021-2024`
+#### 1. [Telkom Purwokerto Institute of Technology] (https://ittelkom-pwt.ac.id/ | Bachelor of Electrical Engineering | Banjarbaru`2021-2024`
       - Software Engineering Student Association
 
 #### 2. [Telkom Banjarbaru Vocational School](https://www.smktelkom-bjb.sch.id/web/) | Software Engineering | Banjarbaru `2019-2021`
