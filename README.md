@@ -18,17 +18,21 @@
 #### 1. [Indonesian Code House](https://rumahkoding.id/) | Software Engineering | Banjarbaru `Dec'2019 - 2020`
       - Making Simple Games
 
-### Language and Tools:
-
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
-
-<br />
-<br />
+### Tech Stack
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://seeklogo.com/images/K/kotlin-logo-30C1970B05-seeklogo.com.png" /></a>
+  <a href="#"><img align="left" alt="Android Studio" title="Android Studio" width="21px" src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" /></a>
+  <a href="#"><img align="left" alt="Dart" title="Dart" width="21px" src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png" /></a>
+  <a href="#"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" /></a>
+  <br>
+  <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/fakhrymubarak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fakhrymubarak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fakhrymubarak&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 ---
 ### Connect with me:
